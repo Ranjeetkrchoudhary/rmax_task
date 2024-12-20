@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rmax_task/static/css/main.0f7016db.css",
+    "main.js": "/rmax_task/static/js/main.ac9e5b61.js",
+    "static/js/453.219feac7.chunk.js": "/rmax_task/static/js/453.219feac7.chunk.js",
+    "static/media/fa-solid-900.ttf": "/rmax_task/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/Learning.png": "/rmax_task/static/media/Learning.e04b7a488c0b158d650f.png",
+    "static/media/fa-brands-400.ttf": "/rmax_task/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/Sports.png": "/rmax_task/static/media/Sports.1e755a9c4bc2accb4705.png",
+    "static/media/fa-solid-900.woff2": "/rmax_task/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/Wellness.png": "/rmax_task/static/media/Wellness.aa6701f42b23db2688ad.png",
+    "static/media/fa-brands-400.woff2": "/rmax_task/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/rmax_task/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/onboard 2.png": "/rmax_task/static/media/onboard 2.2686c785bcb3d6874557.png",
+    "static/media/onboard 1.png": "/rmax_task/static/media/onboard 1.5028d5170340ac0c0e80.png",
+    "static/media/onboard 3.png": "/rmax_task/static/media/onboard 3.de49f5eaa43b5415a6a4.png",
+    "static/media/fa-regular-400.woff2": "/rmax_task/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/rmax_task/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/rmax_task/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/rmax_task/index.html",
+    "main.0f7016db.css.map": "/rmax_task/static/css/main.0f7016db.css.map",
+    "main.ac9e5b61.js.map": "/rmax_task/static/js/main.ac9e5b61.js.map",
+    "453.219feac7.chunk.js.map": "/rmax_task/static/js/453.219feac7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7016db.css",
+    "static/js/main.ac9e5b61.js"
+  ]
+}
